@@ -1,0 +1,31 @@
+body{
+    max-width: 800px;
+    background-color: #0F0F0F;
+    color: white;
+}
+.featured-img{
+    height: 235px;
+    width: 130px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.Site-container{
+    max-width: 700px;
+    margin: 3em auto;
+    padding: 1em;
+    border: black;
+    color: black;
+    box-shadow: 1px 1px 5px #ddd;
+    background-color: #0F0F0F;
+}
+.Main{
+    color: white;
+    display: inline;
+}
+
+.News-text{
+    display: inline;
+}
